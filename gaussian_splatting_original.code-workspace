@@ -1,0 +1,66 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../../cvpr_paper"
+		},
+		{
+			"path": "../../../icml_paper"
+		},
+		{
+			"path": "../../../iros_paper"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"sstream": "cpp",
+			"array": "cpp",
+			"string": "cpp",
+			"string_view": "cpp",
+			"ranges": "cpp",
+			"vector": "cpp",
+			"memory_resource": "cpp",
+			"tuple": "cpp",
+			"*.ipp": "cpp",
+			"algorithm": "cpp",
+			"*.tcc": "cpp",
+			"chrono": "cpp",
+			"deque": "cpp",
+			"forward_list": "cpp",
+			"list": "cpp",
+			"unordered_map": "cpp",
+			"unordered_set": "cpp",
+			"functional": "cpp",
+			"iterator": "cpp",
+			"optional": "cpp",
+			"fstream": "cpp",
+			"future": "cpp",
+			"iosfwd": "cpp",
+			"iostream": "cpp",
+			"istream": "cpp",
+			"memory": "cpp",
+			"mutex": "cpp",
+			"numeric": "cpp",
+			"shared_mutex": "cpp",
+			"stop_token": "cpp",
+			"streambuf": "cpp",
+			"thread": "cpp",
+			"cmath": "cpp",
+			"utility": "cpp",
+			"__functional_base": "cpp",
+			"__hash_table": "cpp",
+			"__split_buffer": "cpp",
+			"__tree": "cpp",
+			"exception": "cpp",
+			"__memory": "cpp",
+			"filesystem": "cpp",
+			"map": "cpp",
+			"queue": "cpp",
+			"set": "cpp",
+			"stack": "cpp",
+			"type_traits": "cpp"
+		}
+	}
+}
